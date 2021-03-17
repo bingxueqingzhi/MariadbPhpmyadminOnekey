@@ -1,13 +1,13 @@
 #!/bin/bash
 #
 #********************************************************************
-#Author:                chendafu
-#QQ:                    31423684864576
-#Date:                  2019-05-15
-#FileName：             myadmin.sh
-#URL:                   http://www.derong.info
-#Description：          The test script
-#Copyright (C):        2019 All rights reserved
+#Author:                NA
+#QQ:                    NA
+#Date:                  2021-03-17
+#FileName:              MPO.sh
+#URL:                   NA
+#Description:           The test script
+#Copyright (C):         2021 All rights reserved
 #********************************************************************
 # 设置变量
 base_dir='/app'
